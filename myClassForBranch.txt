@@ -1,0 +1,8 @@
+public class MyClassForBranch {
+
+	public MyClassForBranch()
+	{}
+
+	public void myMethod()
+	{}
+}
