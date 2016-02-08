@@ -1,5 +1,8 @@
 public class MyClass {
+	public int variable;
 	public MyClass()
-	{}
+	{
+		variable = 230
+	}
 
 }
