@@ -3,7 +3,7 @@ public class MyClass {
 	public int variable;
 	public MyClass()
 	{
-		variable = 100500;
+		variable = 100500+200;
 	}
 
 }
