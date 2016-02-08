@@ -1,4 +1,6 @@
 public class MyNewClass {
 	public myNewClass()
-{}
+	{
+		public int myVar = 500;
+	}
 }
